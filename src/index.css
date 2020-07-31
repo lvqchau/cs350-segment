@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+}
+
+p {
+  margin: 0
+}
+
+button {
+  outline: none;
+  border: none;
+  cursor: pointer;
+}
